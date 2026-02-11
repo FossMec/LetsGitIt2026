@@ -14,11 +14,10 @@ Super simple one-page portfolio using plain HTML + CSS. Perfect for GitHub Pages
 3. Set visibility to **Public**
 4. Click **Create repository**
 
-### Step 2: Fork & Clone the Template
-1. Go to  
-   https://github.com/fossmec/LetsGitIt2026  
-   and click **Fork**
-2. Clone **your fork** to your computer:
+### Step 2: Clone the Template
+1. Go to  https://github.com/fossmec/LetsGitIt2026  
+   
+2. Clone **the repo** to your computer:
    ```bash
    git clone https://github.com/your-username/LetsGitIt2026.git
    ```
