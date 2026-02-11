@@ -19,7 +19,7 @@ Super simple one-page portfolio using plain HTML + CSS. Perfect for GitHub Pages
    
 2. Clone **the repo** to your computer:
    ```bash
-   git clone https://github.com/your-username/LetsGitIt2026.git
+   git clone https://github.com/fossmec/LetsGitIt2026.git
    ```
 3. Enter the folder:
    ```bash
